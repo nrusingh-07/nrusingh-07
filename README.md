@@ -16,7 +16,7 @@
 ---
 
 <!-- 💬 About Section -->
-<img align="right" alt="Coding GIF" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding GIF" height="170" width="170" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ### 👨‍💻 About Me  
 - 🌱 I’m currently learning and building in Web Development  
