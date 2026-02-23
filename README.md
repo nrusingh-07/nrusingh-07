@@ -16,14 +16,23 @@
 ---
 
 <!-- 💬 About Section -->
-<img align="right" alt="Coding GIF" height="170" width="170" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding GIF" height="360" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ### 👨‍💻 About Me  
-- 🌱 I’m currently learning and building in Web Development  
-- 💡 Exploring Full-Stack Development & Modern Frameworks  
-- 💬 Ask me about HTML, CSS, JavaScript, Python, Java, and Web Design  
-- 🌐 Check out my Portfolio: [nrusingh-portfolio.com](https://your-portfolio-link.com)  
-- ⚡ Fun fact: I write clean code while sipping coffee ☕  
+
+🚀 Fresher | Aspiring Full Stack Developer  
+
+- 🎓 Computer Science graduate with hands-on project experience  
+- 💻 Passionate about building clean, user-friendly web applications  
+- ⚛️ Frontend: React.js, Tailwind CSS  
+- 🌐 Backend: Node.js, Express, MongoDB  
+- 🤖 Exploring AI-powered features using Google Gemini API  
+- 🧩 Built a No-Code Website Builder as a major academic project  
+- 🔐 Implemented secure authentication using Firebase  
+- 🏆 Actively learning through hackathons, projects, and self-practice  
+- 📈 Focused on continuous learning and real-world problem solving  
+
+✨ Open to opportunities as a **Junior / Entry-Level Full Stack Developer** 
 
 ---
 
