@@ -1,96 +1,109 @@
-<!-- 💻 Modern Developer GitHub Profile README -->
-
-<!-- 🌟 Header Banner -->
-![logo](https://e0.pxfuel.com/wallpapers/738/566/desktop-wallpaper-artstation-rog-design-pixel-jeff-pixel-art-gif-pixel-art-pc.jpg)
-
-<h1 align="center">Hey 👋, I'm <span style="color:#00BFFF;">Nrusingh Prasad Swain</span></h1>
-<h3 align="center">💻 Web Developer | 🚀 Tech Explorer | 🌱 Lifelong Learner</h3>
-
----
-
-<!-- 🧠 Typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer!;I+Love+Building+Modern+Web+Apps!;Let's+Create+Something+Amazing!" alt="Typing Animation" />
-</div>
-
----
-
-<!-- 💬 About Section -->
-<img align="right" alt="Coding GIF" height="360" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
-
-### 👨‍💻 About Me  
-
-🚀 Fresher | Aspiring Full Stack Developer  
-
-- 🎓 Computer Science graduate with hands-on project experience  
-- 💻 Passionate about building clean, user-friendly web applications  
-- ⚛️ Frontend: React.js, Tailwind CSS  
-- 🌐 Backend: Node.js, Express, MongoDB  
-- 🤖 Exploring AI-powered features using Google Gemini API  
-- 🧩 Built a No-Code Website Builder as a major academic project  
-- 🔐 Implemented secure authentication using Firebase  
-- 🏆 Actively learning through hackathons, projects, and self-practice  
-- 📈 Focused on continuous learning and real-world problem solving  
-
-✨ Open to opportunities as a **Junior / Entry-Level Full Stack Developer** 
-
----
-
-### 🌍 Connect With Me  
----
+<h1 align="center">Hi, I'm Nrusingh Prasad Swain 👋</h1>
 
 <p align="center">
-<a href="https://twitter.com/@nrusingh_p2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nrusingh_p2023" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nrusingh prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nrusingh prasad" height="30" width="40" /></a>
-<a href="https://fb.com/nrusingh prasad swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nrusingh prasad swain" height="30" width="40" /></a>
-<a href="https://instagram.com/unicor_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unicor_07" height="30" width="40" /></a>
+  <b>Full Stack Developer (Fresher)</b> • Modern Web • Builder Mindset
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Web+Applications;Learning+by+Building+Every+Day" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nrusingh prasad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/@nrusingh_p2023">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/unicor_07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+I’m a **Full Stack Developer (Fresher)** who enjoys building modern, scalable, and user-friendly web applications.
+
+- 🎓 Computer Science graduate  
+- ⚛️ React.js, Tailwind CSS, JavaScript (ES6+)  
+- 🌐 Node.js, Express.js, REST APIs  
+- 🗄️ MongoDB (NoSQL)  
+- 🔐 Firebase Authentication  
+- 🧩 Major Project: No-Code Website Builder  
+- 🧠 Uses AI tools for productivity & learning  
+- 🏆 Hackathons & continuous self-learning  
+
+🎯 **Open to Junior / Entry-Level Full Stack Developer roles**
+
+
+
+---
+## 🚀 Featured Projects
+
+### 🔹 No-Code Website Builder
+- Full Stack web application for building websites without coding
+- Tech: React, Tailwind CSS, Node.js, MongoDB, Firebase
+- Features: Drag-and-drop UI, authentication, real-time preview
+
+### 🔹 Full Stack Web App (Practice Project)
+- End-to-end CRUD application
+- REST APIs, authentication, database integration
+- Focus on clean UI and backend logic
+---
+## 🤖 Generative AI (Practical Use)
+
+- Code scaffolding & refactoring  
+- Debugging and optimization  
+- Documentation & README support  
+- Rapid prototyping  
+
+> I control the logic — AI helps me move faster.
 
 ---
 
-### 🧰 Languages & Tools  
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,git,figma,vscode,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,java,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrusingh-07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrusingh-07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
+## 📊 GitHub Overview 
 
----
-
-### 🔥 GitHub Streak  
-<div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrusingh-07&" alt="nrusingh-07" /></p>
-</div>
-
----
-
-### ☕ Support Me  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/nrusingh_07" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/></a>
-  <a href="https://ko-fi.com/nrusingh_07" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-29ABE0?style=for-the-badge&logo=kofi&logoColor=white" height="40"/></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nrusingh-07&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrusingh-07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrusingh-07&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 💡 Developer Quote  
-> “Talk is cheap. Show me the code.” — Linus Torvalds
-
----
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nrusingh-07&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrusingh-07&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">🚀 Keep coding. Keep improving. Keep creating amazing web experiences. 🌐</h3>
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nrusingh_07">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  🚀 Build • Learn • Improve • Repeat
+</p>
